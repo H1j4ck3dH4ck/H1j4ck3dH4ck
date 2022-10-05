@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **c, c++, python, linux, kali linux**
 
-- 👯 I’m looking to collaborate on [github](https://github.com/H1j4ck3dH4ck/42_cursus.git)
-
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **victormunozrodriguez1994@gmail.com**
