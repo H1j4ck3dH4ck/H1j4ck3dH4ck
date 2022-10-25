@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">Actually studying programming at 42BCN</h3>
 
-- 🔭 I’m currently working on [libft](https://github.com/H1j4ck3dH4ck/42_cursus/tree/main/Libft)
+- 🔭 I’m currently working on [ft_printf](https://github.com/H1j4ck3dH4ck/42_cursus/tree/main/Ft_printf)
 
 - 🌱 I’m currently learning **c, c++, python, linux, kali linux**
 
