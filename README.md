@@ -4,7 +4,7 @@
 <img src="./Images/malwere.gif" align= "center" width=600, hight=200>
 
 - 💻 I’m currently working on [ft_printf](https://github.com/H1j4ck3dH4ck/42_cursus/tree/main/Ft_printf)
-<img src="./Images/homer.gif" align= "center" width=100, hight = 100>
+<img src="./Images/homer.gif" align= "center" width=50, hight = 50>
 
 - 💻 I’m currently learning **c, c++, python, linux, kali linux**
 
