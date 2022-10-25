@@ -5,8 +5,6 @@
 
 - 💻 I’m currently learning **c, c++, python, linux, kali linux**
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **victormunozrodriguez1994@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
