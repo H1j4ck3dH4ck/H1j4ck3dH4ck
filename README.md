@@ -1,9 +1,9 @@
 <h1 align="center">Hi H4x0rs 💻, I'm Victor(H1j4ck3dH4ck)</h1>
 <h3 align="center">Actually studying programming at 42BCN</h3>
 
-- 🔭 I’m currently working on [ft_printf](https://github.com/H1j4ck3dH4ck/42_cursus/tree/main/Ft_printf)
+- 💻 I’m currently working on [ft_printf](https://github.com/H1j4ck3dH4ck/42_cursus/tree/main/Ft_printf)
 
-- 🌱 I’m currently learning **c, c++, python, linux, kali linux**
+- 💻 I’m currently learning **c, c++, python, linux, kali linux**
 
 - 💬 Ask me about **Anything**
 
