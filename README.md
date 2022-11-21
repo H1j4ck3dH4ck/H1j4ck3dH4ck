@@ -3,7 +3,7 @@
 
 <img src="./Images/malwere.gif" align = "center" width = "300" high = "200">
 
-- 💻 I’m currently working on [ft_printf](https://github.com/H1j4ck3dH4ck/42_cursus/tree/main/Ft_printf)
+- 💻 I’m currently working on [get_next_line](https://github.com/H1j4ck3dH4ck/42_cursus/tree/main/Get_next_line)
 <img src="./Images/homer.gif" align = "center" width="100" high="100">
 
 - 💻 I’m currently learning **c, c++, python, linux, kali linux**
